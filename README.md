@@ -1,5 +1,5 @@
 
-# Laravel Database Query Log
+# Laravel 5 Database Query Log
 
 > 只有在调试模式下可以使用
 
