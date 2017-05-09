@@ -1,7 +1,7 @@
 {
     "name": "goodwong/laravel-database-query-log",
     "description": "将sql查询语句、查询用时记录到日志文件，以供分析优化",
-    "type": "utils",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
