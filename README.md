@@ -10,7 +10,7 @@
 
 ## 安装
 
-1. 清除缓存
+1. 通过composer安装
     ```shell
     composer require goodwong/laravel-database-query-log
     ```
