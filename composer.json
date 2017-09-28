@@ -16,5 +16,12 @@
         }
     },
     "require": {
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Goodwong\\LaravelDatabaseQueryLog\\QueryLogServiceProvider"
+            ]
+        }
     }
 }
