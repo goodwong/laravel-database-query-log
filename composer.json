@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Goodwong\\LaravelDatabaseQueryLog\\": "src/"
+            "Goodwong\\DatabaseQueryLog\\": "src/"
         }
     },
     "require": {
@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Goodwong\\LaravelDatabaseQueryLog\\QueryLogServiceProvider"
+                "Goodwong\\DatabaseQueryLog\\QueryLogServiceProvider"
             ]
         }
     }

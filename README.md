@@ -17,7 +17,7 @@
 
 2. 打开config/app.php，在providers数组里注册服务：
     ```php
-    Goodwong\LaravelDatabaseQueryLog\QueryLogServiceProvider::class,
+    Goodwong\DatabaseQueryLog\QueryLogServiceProvider::class,
     ```
 
 

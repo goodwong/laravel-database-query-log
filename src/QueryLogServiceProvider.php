@@ -1,6 +1,6 @@
 <?php
 
-namespace Goodwong\LaravelDatabaseQueryLog;
+namespace Goodwong\DatabaseQueryLog;
 
 use DB;
 use Log;
